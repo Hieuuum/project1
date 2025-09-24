@@ -1,0 +1,50 @@
+/* Simple global base styles for the app.
+   This file intentionally keeps styles minimal so component CSS (App.css)
+   can control layout and colors without being overridden. */
+
+:root {
+	font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue",
+		Arial;
+	font-size: 16px;
+	line-height: 1.5;
+	color-scheme: light;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+	height: 100%;
+}
+
+body {
+	margin: 0;
+	background: #f7fafc; /* light neutral background used by App.css */
+	color: #1a202c; /* dark text for readability */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+a {
+	color: #667eea;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+button {
+	font-family: inherit;
+}
+
+/* Small utility to avoid accidental full-viewport centering */
+.center-viewport {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 100vh;
+}
