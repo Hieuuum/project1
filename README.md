@@ -23,7 +23,7 @@ The following **optional** features are implemented:
   - [ ] All cards have buttons or links in addition to text
 - [x] The site is responsive for both desktop and mobile formats
   - [x] Web app is shown in a mobile format
-  - [ ] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop _and_ a mobile format. Detailed instructions can be found below this stretch feature on the project page.
+  - [x] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop _and_ a mobile format. Detailed instructions can be found below this stretch feature on the project page.
 
 The following **additional** features are implemented:
 
@@ -33,11 +33,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/RRR5Xrd' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with ScreenToGif
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -46,7 +46,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I struggled a lot with the styling.
 
 ## License
 
