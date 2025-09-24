@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/RRR5Xrd' title='Video Walkthrough' width='100' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/RRR5Xrd" data-context="false" ><a href="//imgur.com/a/RRR5Xrd"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 
